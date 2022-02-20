@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**mostafa-metwaly/mostafa-metwaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **mostafa-metwaly/mostafa-metwaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hello there 👋, I am Mostafa Othman!
 
 I am an M.Sc. student from Egypt completing my studies in Russia. The topic of my master studies is related to solving robotic assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision and Reinforcement Learning.
