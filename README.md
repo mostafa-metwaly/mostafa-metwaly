@@ -11,7 +11,7 @@ I have experiance in operating an Kuka iiwa robot. During my studies I created a
 ### 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="JavaScript logo" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Universal_robots_logo.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="JavaScript logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Universal_robots_logo.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="JavaScript logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript logo" width="50" height="50"/> 
 
 ### ✉️ Find me on:
