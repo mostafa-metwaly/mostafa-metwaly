@@ -5,8 +5,10 @@
 ### Hello there 👋, I am Mostafa Othman!
 
 I am an M.Sc. student from Egypt completing my studies in Russia. The topic of my master studies is related to solving robotic assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision and Reinforcement Learning.
-I have experiance in operating an Kuka iiwa robot. During my studies I created a simulation environment using [Robosuite](https://github.com/ARISE-Initiative/robosuite) which is simulation framework powered by [MuJoCo](https://mujoco.org/) physics engine for robot learning.
+I have experiance in operating an Kuka iiwa robot. 
 
+<!-- During my studies I created a simulation environment using [Robosuite](https://github.com/ARISE-Initiative/robosuite) which is simulation framework powered by [MuJoCo](https://mujoco.org/) physics engine for robot learning.
+ -->
 
 ### ✉️ Find me on:
 <p align="left">
