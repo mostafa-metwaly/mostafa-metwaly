@@ -11,7 +11,7 @@ I have experiance in operating an Kuka iiwa robot. During my studies I created a
 ### 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="JavaScript logo" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="JavaScript logo" width="50" height="50"/>
+<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="JavaScript logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript logo" width="50" height="50"/> 
 
 ### ✉️ Find me on:
@@ -23,7 +23,7 @@ I have experiance in operating an Kuka iiwa robot. During my studies I created a
 ### 🗺️ Languages:
 Arabic, English
 
-### 🥅 Goals:
+<!-- ### 🥅 Goals: -->
 <!-- 
 - [ ] Studies
   - [ ] Implement working learning in RoboSuite
