@@ -4,11 +4,15 @@
 <!-- **mostafa-metwaly/mostafa-metwaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hello there 👋, I am Mostafa Othman!
 
-I am an M.Sc. student from Egypt completing my studies in Russia. The topic of my master studies is related to solving robotic assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision and Reinforcement Learning.
+
+I am a highly skilled robotics software engineer and machine learning enthusiast from Egypt , keen on developing and deploying emerging robotic systems
+for industrial applications. Competent in enhancing and streamlining robot operations, utilizing deep learning and computer
+vision techniques to increase efficiency and improve performance. Eager to provide innovative solutions to industry-specific
+issues, furthering technological progress in the robotics domain.
+
+The topic of my master studies is related to solving robotic assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision and Reinforcement Learning.
 I have experiance in operating a Kuka iiwa robot using ROS. 
 
-<!-- During my studies I created a simulation environment using [Robosuite](https://github.com/ARISE-Initiative/robosuite) which is simulation framework powered by [MuJoCo](https://mujoco.org/) physics engine for robot learning.
- -->
 
 ### ✉️ Find me on:
 <p align="left">
@@ -23,8 +27,10 @@ I have experiance in operating a Kuka iiwa robot using ROS.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript logo" width="50" height="50"/> 
 
 ### 🗺️ Languages:
-Arabic, English
+Arabic, English , Russian , Japanese.
 
+- 🔭 I’m currently working at Rapyuta Robotics
+- 📫 I'm currently located in Tokyo, Japan.
 <!-- ### 🥅 Goals: -->
 <!-- 
 - [ ] Studies
