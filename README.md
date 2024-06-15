@@ -1,22 +1,24 @@
-<!-- ### Hi there 👋 -->
 
 
-<!-- **mostafa-metwaly/mostafa-metwaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hello there 👋, I am Mostafa Othman!
 
 
-I am a highly skilled robotics software engineer and machine learning enthusiast from Egypt , keen on developing and deploying emerging robotic systems
+I am a highly skilled robotics software engineer from Egypt, keen on developing and deploying emerging robotic systems
 for industrial applications. Competent in enhancing and streamlining robot operations, utilizing deep learning and computer
 vision techniques to increase efficiency and improve performance. Eager to provide innovative solutions to industry-specific
 issues, furthering technological progress in the robotics domain.
 
-The topic of my master studies is related to solving robotic assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision and Reinforcement Learning.
-I have experiance in operating a Kuka iiwa robot using ROS. 
+Currently working as a Field Application Engineer for deploying multiple robot systems at Rapyuta Robotics,
+ - Responsible for delivering the software based on customer requirement definition.
+ - Running simulation for performance optimizing and validation tests with customer-specific requirements.
+ - Enhance the automation tools for faster and more optmized deployments.
+The topic of my master's studies is related to solving robotic manipulator assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision, and Reinforcement Learning.
+I have solid experience in operating multiple hardware and manipulators (Kuka iiwa) robots using ROS. 
 
 
 ### ✉️ Find me on:
 <p align="left">
- <a href="https://www.linkedin.com/in/mostafametwally" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/mostafao" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.youtube.com/user/mostafaman9/featured" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/2048px-YouTube_social_white_square_%282017%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -25,10 +27,14 @@ I have experiance in operating a Kuka iiwa robot using ROS.
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="JavaScript logo" width="50" height="50">
 <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="JavaScript logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript logo" width="50" height="50"/> 
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu"  width="50" height="50"/>
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode"  width="50" height="50"/>
+<img width="75px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"  width="50" height="50"/>
 
 ### 🗺️ Languages:
-Arabic, English , Russian , Japanese.
+Arabic, English, Russian, Japanese.
 
+- 🌱 I’m currently learning more about Embedded Linux.
 - 🔭 I’m currently working at Rapyuta Robotics
 - 📫 I'm currently located in Tokyo, Japan.
 <!-- ### 🥅 Goals: -->
