@@ -24,12 +24,17 @@ I have solid experience in operating multiple hardware and manipulators (Kuka ii
 
 ### 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="JavaScript logo" width="50" height="50">
-<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png" alt="JavaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="JavaScript logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript logo" width="50" height="50"/> 
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu"  width="50" height="50"/>
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode"  width="50" height="50"/>
-<img width="75px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"  width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50"/> 
+<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu"  width="50" height="50"/>
+<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode"  width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"  width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ROS"  width="50" height="50"/>
+
 
 ### 🗺️ Languages:
 Arabic, English, Russian, Japanese.
