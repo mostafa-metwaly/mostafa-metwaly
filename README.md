@@ -11,7 +11,9 @@ issues, furthering technological progress in the robotics domain.
 Currently working as a Field Application Engineer for deploying multiple robot systems at Rapyuta Robotics,
  - Responsible for delivering the software based on customer requirement definition.
  - Running simulation for performance optimizing and validation tests with customer-specific requirements.
- - Enhance the automation tools for faster and more optmized deployments.
+ - Enhance the automation tools for faster and more efficient deployments.
+ 
+
 The topic of my master's studies is related to solving robotic manipulator assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision, and Reinforcement Learning.
 I have solid experience in operating multiple hardware and manipulators (Kuka iiwa) robots using ROS. 
 
@@ -23,18 +25,20 @@ I have solid experience in operating multiple hardware and manipulators (Kuka ii
 </p>
 
 ### 🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab logo" width="50" height="50"/> 
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" width="50" height="50">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" width="50" height="50"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50"/> 
-<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu"  width="50" height="50"/>
-<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode"  width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"  width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ROS"  width="50" height="50"/>
-
+<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu"  width="50" height="50"/> 
+<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode"  width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"  width="50" height="50"/> 
+</div>
+<div>
+ <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ROS"  width="100" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity logo" width="50" height="50"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab logo" width="50" height="50"/> 
+</div>
 
 ### 🗺️ Languages:
 Arabic, English, Russian, Japanese.
