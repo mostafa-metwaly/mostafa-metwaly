@@ -8,7 +8,12 @@ for industrial applications. Competent in enhancing and streamlining robot opera
 vision techniques to increase efficiency and improve performance. Eager to provide innovative solutions to industry-specific
 issues, furthering technological progress in the robotics domain.
 
-Currently working as a Field Application Engineer for deploying multiple robot systems at Rapyuta Robotics,
+Currently working as a Field Engineer for maintaing fleet operations at Wayve Technologies Ltd
+- Perform on-site fault triage and resolution, diagnosing and repairing vehicle software and hardware issues quickly to maintain fleet uptime.
+- Participate in on-call rotations, assisting with technical support and issue resolution across multiple regions as part of a 24/7 global support network.
+- Contribute to continuous improvement efforts, identifying operational challenges and providing feedback to optimise field engineering support and efficiency.
+ 
+Previously worked as a Field Application Engineer for deploying multiple robot systems at Rapyuta Robotics,
  - Responsible for delivering the software based on customer requirement definition.
  - Running simulation for performance optimizing and validation tests with customer-specific requirements.
  - Enhance the automation tools for faster and more efficient deployments.
@@ -43,8 +48,7 @@ I have solid experience in operating multiple hardware and manipulators (Kuka ii
 ### 🗺️ Languages:
 Arabic, English, Russian, Japanese.
 
-- 🌱 I’m currently learning more about Embedded Linux.
-- 🔭 I’m currently working at Rapyuta Robotics
+- 🔭 I’m currently working at Wayve Technologies Ltd
 - 📫 I'm currently located in Tokyo, Japan.
 <!-- ### 🥅 Goals: -->
 <!-- 
