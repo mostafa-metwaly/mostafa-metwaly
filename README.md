@@ -1,90 +1,74 @@
+<div align="center">
 
+### Hey — I'm Mostafa
 
-### Hello there 👋, I am Mostafa Othman!
+**Robotics Field Engineer** @ [Wayve](https://wayve.ai/) · **Tokyo**
 
+*Physical AI, real roads, and the messy bit between "it works in the garage" and "it's safe outside."*
 
-I am a highly skilled robotics software engineer from Egypt, keen on developing and deploying emerging robotic systems
-for industrial applications. Competent in enhancing and streamlining robot operations, utilizing deep learning and computer
-vision techniques to increase efficiency and improve performance. Eager to provide innovative solutions to industry-specific
-issues, furthering technological progress in the robotics domain.
+<br>
 
-Currently working as a Field Engineer for maintaing fleet operations at Wayve Technologies Ltd
-- Perform on-site fault triage and resolution, diagnosing and repairing vehicle software and hardware issues quickly to maintain fleet uptime.
-- Participate in on-call rotations, assisting with technical support and issue resolution across multiple regions as part of a 24/7 global support network.
-- Contribute to continuous improvement efforts, identifying operational challenges and providing feedback to optimise field engineering support and efficiency.
- 
-Previously worked as a Field Application Engineer for deploying multiple robot systems at Rapyuta Robotics,
- - Responsible for delivering the software based on customer requirement definition.
- - Running simulation for performance optimizing and validation tests with customer-specific requirements.
- - Enhance the automation tools for faster and more efficient deployments.
- 
+[![Wayve](https://img.shields.io/badge/Wayve-field%20engineering-6366F1?style=for-the-badge)](https://wayve.ai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mostafao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafao/)
+[![Academic site](https://img.shields.io/badge/Academic%20site-notes%20%26%20papers-24292F?style=for-the-badge&logo=github&logoColor=white)](https://mostafa-metwaly.github.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-projects%20%26%20demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/mostafaman9/featured)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live%20site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mostafa-metwaly.netlify.app/)
 
-The topic of my master's studies is related to solving robotic manipulator assembly (PegInHole) tasks using Teleoperation, Haptic Feedback, Computer Vision, and Reinforcement Learning.
-I have solid experience in operating multiple hardware and manipulators (Kuka iiwa) robots using ROS. 
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=90&section=header" alt="" width="100%"/>
 
-### ✉️ Find me on:
+</div>
+
+<br>
+
+If you found me through a **PR, an issue, or a random commit** — welcome. I'm not trying to sound like a press release; I just like things that **work in the real world** and paper over fewer surprises when software meets metal.
+
+---
+
+### What I'm doing these days
+
+Most of my energy goes into **getting autonomous vehicles from "built" to "trustworthy on the road"** — bring-up, calibration, checking that releases behave the way we think they do, and chasing the weird edge cases (signals, sensors, timing, the stuff that only shows up when you're not in sim). I also spend a fair amount of time on **safety and operations**: when something goes wrong, you want people who've already seen the movie — I'm one of the people in that loop.
+
+I still get a kick out of **understanding the whole stack**, not just my corner. Robots were never supposed to be single-file problems.
+
+---
+
+### Before that (short version)
+
+~**3 years** at [Rapyuta Robotics](https://www.rapyuta-robotics.com/) in Tokyo — **AMRs and autonomous forklifts**, lots of Japan sites, lots of nights keeping fleets happy, and a few projects I’m still proud of (automation around testing/deploy, and cutting network setup pain with an **on-robot LTE** idea that actually stuck).
+
+---
+
+### Tools I reach for a lot
+
 <p align="left">
- <a href="https://www.linkedin.com/in/mostafao" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.youtube.com/user/mostafaman9/featured" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/2048px-YouTube_social_white_square_%282017%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,docker,git,linux,ts,vscode&perline=8" alt="Python, C++, Docker, Git, Linux, TypeScript, VS Code" height="40"/>
+</p>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ROS" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40"/>
 </p>
 
-### 🧰 Toolbox
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50"/> 
-<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu"  width="50" height="50"/> 
-<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode"  width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"  width="50" height="50"/> 
+*Plus whatever internal tooling the day throws at me — you know how it is.*
+
+---
+
+### Education & background
+
+| | |
+|:---|:---|
+| **Education** | M.Sc., Robotics and Computer Vision — Innopolis University · B.Sc., Mechatronics Engineering — Nile University |
+| **Research** | Robotic manipulation, teleoperation, haptic interfaces, and computer vision; background supports systems-level debugging and integration |
+| **Languages** | Arabic (native) · English (fluent) · Japanese (conversational) · Russian (professional) |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=90&section=footer" alt="" width="100%"/>
+
+**Tokyo · Building and breaking things so they ship safer**
+
 </div>
-<div>
- <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ROS"  width="100" height="50"/>
- <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity logo" width="50" height="50"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab logo" width="50" height="50"/> 
-</div>
-
-### 🗺️ Languages:
-Arabic, English, Russian, Japanese.
-
-- 🔭 I’m currently working at Wayve Technologies Ltd
-- 📫 I'm currently located in Tokyo, Japan.
-<!-- ### 🥅 Goals: -->
-<!-- 
-- [ ] Studies
-  - [ ] Implement working learning in RoboSuite
-  - [ ] Implement PPO from scratch
-  - [ ] ML in Healthcare (course)
-- [ ] Finish ML book
-  - [ ] ...
-- [ ] Tensorflow Specialization
-  - [x] Intro
-  - [ ] CNN
-  - [ ] NLP
-  - [ ] Sequences
-- [ ] DL Specialization
-  - [x] ML projects
-  - [x] NN and DL
-  - [x] Optimization
-  - [ ] CNN
-  - [ ] Sequence Models
-- [ ] Tensorlfow Certificate 
-- [ ] SQL
-- [ ] Git
-  - [x] [Part1](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
-  - [ ] [Part2](https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org)
- -->
-
-<!-- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
