@@ -55,6 +55,78 @@ I still get a kick out of **understanding the whole stack**, not just my corner.
 
 ---
 
+### Selected projects
+
+Demos and write-ups on the **[portfolio](https://mostafa-metwaly.netlify.app/)** · thesis and lab work on the **[academic site](https://mostafa-metwaly.github.io/portfolio/)**.
+
+#### Robotics & research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mostafa-metwaly.github.io/files/mostafa-othman-master-thesis-defense-2022.pdf"><img src="https://img.youtube.com/vi/vaFsLzGQ1M8/maxresdefault.jpg" width="100%" alt="Master's thesis — peg-in-hole assembly"/></a>
+<br/><strong>Master's thesis — peg-in-hole, four control modes</strong><br/>
+Innopolis · KUKA iiwa · vision, haptics, shared autonomy, learning from demonstration<br/>
+<a href="https://github.com/mostafa-metwaly/MasterThesisWork">Code</a> · <a href="https://mostafa-metwaly.github.io/files/mostafa-othman-master-thesis-defense-2022.pdf">Thesis PDF</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mostafa-metwaly/Design-and-Controlling-a-VR-system-for-Teleoperation-of-6DOF-Robotic-manipulator"><img src="https://img.youtube.com/vi/oxwMDySRGDk/maxresdefault.jpg" width="100%" alt="Bachelor's thesis — VR teleoperation"/></a>
+<br/><strong>Bachelor's thesis — VR teleoperation in hazardous environments</strong><br/>
+Nile University · custom 7-DOF arm · ROS · Unity · IoT and AI Egypt 1st<br/>
+<a href="https://github.com/mostafa-metwaly/Design-and-Controlling-a-VR-system-for-Teleoperation-of-6DOF-Robotic-manipulator">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mostafa-metwaly/Cable-driven-robot"><img src="https://img.youtube.com/vi/IGJtQsirpvE/maxresdefault.jpg" width="100%" alt="Cable-driven robot teleoperation"/></a>
+<br/><strong>Cable-driven robot teleoperation with haptic master</strong><br/>
+10×7 m workspace · Touch haptics · PLC · Go · websockets<br/>
+<a href="https://github.com/mostafa-metwaly/Cable-driven-robot">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mostafa-metwaly/Design-and-Controlling-a-VR-system-for-Teleoperation-of-6DOF-Robotic-manipulator"><img src="https://img.youtube.com/vi/Fn2Nb0Y-_eM/maxresdefault.jpg" width="100%" alt="KUKA iiwa VR teleoperation"/></a>
+<br/><strong>KUKA iiwa teleoperation in virtual reality</strong><br/>
+ROS · Unity · Samsung HMD · haptic force feedback<br/>
+<a href="https://github.com/mostafa-metwaly/Design-and-Controlling-a-VR-system-for-Teleoperation-of-6DOF-Robotic-manipulator">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mostafa-metwaly/ComputerVision-Project"><img src="https://img.youtube.com/vi/MwppmW9Z21s/maxresdefault.jpg" width="100%" alt="Haptic peg-in-hole"/></a>
+<br/><strong>Haptic peg-in-hole with impedance control</strong><br/>
+KUKA iiwa · Touch device · compliance for contact-rich insertion<br/>
+<a href="https://github.com/mostafa-metwaly/ComputerVision-Project">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=veS7uErQFMY"><img src="https://img.youtube.com/vi/veS7uErQFMY/maxresdefault.jpg" width="100%" alt="Bilateral teleoperation KUKA iiwa"/></a>
+<br/><strong>Bilateral teleoperation — KUKA iiwa and Touch</strong><br/>
+Force reflection · Cartesian and joint mapping · lab foundation for VR thesis work<br/>
+<a href="https://mostafa-metwaly.netlify.app/#projects">Demo on portfolio</a>
+</td>
+</tr>
+</table>
+
+#### Hackathons & software
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mostafa-metwaly/AI_solana_smartcontract"><img src="https://pbs.twimg.com/media/Gki41wybMAAVdZ7?format=jpg&name=4096x4096" width="100%" alt="AI smart contracts on Solana"/></a>
+<br/><strong>AI smart contracts on Solana</strong><br/>
+Builders Weekend Tokyo · 1st place (Best Idea) · Python · Solana<br/>
+<a href="https://github.com/mostafa-metwaly/AI_solana_smartcontract">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.figma.com/deck/jD8KhUmrrYi1oLD6JlZSq7"><img src="https://img.youtube.com/vi/l94_GVzOvJY/maxresdefault.jpg" width="100%" alt="Lumenaria — Tokyo Game Jam"/></a>
+<br/><strong>Lumenaria — emotion-aware play with Qwen AI</strong><br/>
+Tokyo Game Jam · Unity tiles + in-game Qwen chat · Figma mobile flow<br/>
+<a href="https://github.com/mostafa-metwaly/TokyoGameJam25_AI">Code</a> · <a href="https://www.figma.com/deck/jD8KhUmrrYi1oLD6JlZSq7">Pitch deck</a> · <a href="https://www.youtube.com/watch?v=l94_GVzOvJY">Event recap</a>
+</td>
+</tr>
+</table>
+
+---
+
 ### Education & background
 
 | | |
