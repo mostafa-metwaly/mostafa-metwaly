@@ -133,7 +133,7 @@ Tokyo Game Jam · Unity tiles + in-game Qwen chat · Figma mobile flow<br/>
 |:---|:---|
 | **Education** | M.Sc., Robotics and Computer Vision — Innopolis University · B.Sc., Mechatronics Engineering — Nile University |
 | **Research** | Robotic manipulation, teleoperation, haptic interfaces, and computer vision; background supports systems-level debugging and integration |
-| **Languages** | Arabic (native) · English (fluent) · Japanese (conversational) · Russian (professional) |
+| **Languages** | Arabic (native) · English (fluent) · Japanese (basic conversation) · Russian (basic conversation) |
 
 ---
 
