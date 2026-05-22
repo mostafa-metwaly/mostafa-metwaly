@@ -112,9 +112,9 @@ Force reflection · Cartesian and joint mapping · lab foundation for VR thesis 
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/mostafa-metwaly/AI_solana_smartcontract"><img src="https://pbs.twimg.com/media/Gki41wybMAAVdZ7?format=jpg&name=4096x4096" width="100%" alt="AI smart contracts on Solana"/></a>
-<br/><strong>AI smart contracts on Solana</strong><br/>
-Builders Weekend Tokyo · 1st place (Best Idea) · Python · Solana<br/>
-<a href="https://github.com/mostafa-metwaly/AI_solana_smartcontract">Code</a>
+<br/><strong>Escrow AI — smart contracts on Solana</strong><br/>
+Builders Weekend Tokyo · 1st · ¥250k · Takeoff Tokyo · CV + AI/API<br/>
+<a href="https://www.figma.com/deck/aZbIpoJZxqotHTaHS4bYZ4/Builders-Weekend-Escrow-AI">Pitch deck</a> · <a href="https://github.com/mostafa-metwaly/AI_solana_smartcontract">Code</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://www.figma.com/deck/jD8KhUmrrYi1oLD6JlZSq7"><img src="https://img.youtube.com/vi/l94_GVzOvJY/hqdefault.jpg" width="100%" alt="Lumenaria — Tokyo Game Jam"/></a>
